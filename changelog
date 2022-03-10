@@ -1,0 +1,13 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## [Info]
+- This is the changelog of the Password tester '#'. See the <a href="ReadME.md">ReadME</a> how it works. 
+
+*Note format of time will be given in DD-MM-YYYY (Europe)
+
+## [1.0 Beta] - 10/03/2022
+
+- Offical Beta release of the '#' Password Tester.
+- Almost al chars are available, see 'chars.txt'. 
+
